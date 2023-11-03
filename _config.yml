@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Book Dedications of Beatrix Potter Miniature Book Series  
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Dedications written in the miniature book printings published by Fredrick Warne Co. 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Crafted to show the dedications of Beatrix Potter's beloved books, this digital library shows the dedications with each book shedding light into the relationships between those in her life, her readears and her books."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Laura Brumleve 
 
 ##########
 # COLLECTION SETTINGS
