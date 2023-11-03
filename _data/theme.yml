@@ -23,7 +23,7 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: title, creator, subject, charactersrefernced, dedicationinscription, dedicationindividual   # set the field to be featured in the cloud (if left blank, none will be generated)
+subjects-fields: title,creator,subject,charactersrefernced,dedicationinscription,dedicationindividual   # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 10 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
@@ -76,7 +76,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 base-font-size: 1.2em
 text-color: "#2E9FCB"
 link-color: "#2E9FCB"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
+base-font-family: Times New Roman
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
