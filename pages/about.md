@@ -16,6 +16,8 @@ Beatrix Potter is well-known to many for her sweet stories and mischievous chara
 
 Later, she wrote stories for the children of her former governess, Annie Moore, who later encouraged Potter to publish her stories (Morgan Library & Museum, 2018). It seems fitting that the stories that originated as stories sent to friends for enjoyment would continue with the personal and specific dedications in her subsequent published children’s books. This specific collection was crafted with the purpose of highlighting the unique and interesting way Beatrix Potter dedicated her stories to those close to her and for all children to enjoy. 
 
+{% include feature/image.html objectid="Object_038" %}
+
 ## About this Project 
 This digital library is a result of the Final Project assignment in ILS-Z 652 Digital Libraries at Indiana University. The purpose of this project is strictly educational. I utilized GitHub and Collection Builder to craft the site. 
 
@@ -23,6 +25,8 @@ This digital library is a result of the Final Project assignment in ILS-Z 652 Di
 The Materials that were used in this collection are from the miniature collection of Beatrix Potter Books under Frederick Warne & Co. 
 
 The Copyright Statement is as follows: Copyright in all countries signatory to the Berne Convention. This edition is copyright Frederick Warne & Co.  
+
+{% include feature/image.html objectid="Object_002" %}
 
 ## Citations 
 McGreevy, N. (2022, March 28). Leap into the surprising, art-filled life of Beatrix Potter in a new exhibition. Smithsonian Magazine. https://www.smithsonianmag.com/smart-news/beatrix-potter-peter-rabbit-illustrator-biography-180979756/ 
