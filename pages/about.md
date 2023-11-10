@@ -8,8 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
@@ -23,11 +21,12 @@ This digital library is a result of the Final Project assignment in ILS-Z 652 Di
 
 ## Materials Used 
 The Materials that were used in this collection are from the miniature collection of Beatrix Potter Books under Frederick Warne & Co. 
+
 The Copyright Statement is as follows: Copyright in all countries signatory to the Berne Convention. This edition is copyright Frederick Warne & Co.  
 
 ## Citations 
 McGreevy, N. (2022, March 28). Leap into the surprising, art-filled life of Beatrix Potter in a new exhibition. Smithsonian Magazine. https://www.smithsonianmag.com/smart-news/beatrix-potter-peter-rabbit-illustrator-biography-180979756/ 
-Morgan Library & Museum. (2018, December 3). Beatrix Potter: The picture letters. The Morgan Library & Museum. https://www.themorgan.org/collection/Beatrix-Potter-Picture-Letters 
-Russell, A. (2022, March 12). The Secret Life of Beatrix Potter. The New Yorker. https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter
 
-![image](https://github.com/LauraBrumleve/Digital-Libraries-Final-Project/assets/143623395/3ae0a747-6cce-423d-84c5-461328efe6b4)
+Morgan Library & Museum. (2018, December 3). Beatrix Potter: The picture letters. The Morgan Library & Museum. https://www.themorgan.org/collection/Beatrix-Potter-Picture-Letters 
+
+Russell, A. (2022, March 12). The Secret Life of Beatrix Potter. The New Yorker. https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter
