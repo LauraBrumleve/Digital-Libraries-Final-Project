@@ -14,14 +14,20 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Beatrix Potter is well-known to many for her sweet stories and mischievous characters. Born in Victorian England in 1866, her early years consisted of an isolated childhood, with her father fearing she and her brother would catch germs if they interacted with other children (McGreevy, 2022). However, they did have many pets, including snakes, rabbits, and even a hedgehog, and their interest in the natural world led to excursions to museums and gardens (Russell, 2022). This led to her interest in mycology, resulting in the submission of a paper to the Linnean Society (McGreevy, 2022). 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Later, she wrote stories for the children of her former governess, Annie Moore, who later encouraged Potter to publish her stories (Morgan Library & Museum, 2018). It seems fitting that the stories that originated as stories sent to friends for enjoyment would continue with the personal and specific dedications in her subsequent published children’s books. This specific collection was crafted with the purpose of highlighting the unique and interesting way Beatrix Potter dedicated her stories to those close to her and for all children to enjoy. 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+## About this Project 
+This digital library is a result of the Final Project assignment in ILS-Z 652 Digital Libraries at Indiana University. The purpose of this project is strictly educational. I utilized GitHub and Collection Builder to craft the site. 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+## Materials Used 
+The Materials that were used in this collection are from the miniature collection of Beatrix Potter Books under Frederick Warne & Co. 
+The Copyright Statement is as follows: Copyright in all countries signatory to the Berne Convention. This edition is copyright Frederick Warne & Co.  
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Citations 
+McGreevy, N. (2022, March 28). Leap into the surprising, art-filled life of Beatrix Potter in a new exhibition. Smithsonian Magazine. https://www.smithsonianmag.com/smart-news/beatrix-potter-peter-rabbit-illustrator-biography-180979756/ 
+Morgan Library & Museum. (2018, December 3). Beatrix Potter: The picture letters. The Morgan Library & Museum. https://www.themorgan.org/collection/Beatrix-Potter-Picture-Letters 
+Russell, A. (2022, March 12). The Secret Life of Beatrix Potter. The New Yorker. https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter
+
+![image](https://github.com/LauraBrumleve/Digital-Libraries-Final-Project/assets/143623395/3ae0a747-6cce-423d-84c5-461328efe6b4)
