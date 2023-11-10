@@ -1,4 +1,4 @@
-field,display_name,browse_link,external_link, 
+field,display_name,browse_link,external_link
 title,Title,
 format,Format,
 creator,Creator,
@@ -6,7 +6,7 @@ subject,Subjects,true
 publisher,Publisher,
 date,Date Published,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights Statement,true
 charactersreferenced, Characters Referenced,
 dedicationinscription, Dedication Inscription,
 dedicationindividual, Dedication Individual, 
