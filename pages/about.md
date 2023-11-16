@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="About the Collection;About this Project and Materials Used;Acknowledgments;Citations" %}
+{% include feature/nav-menu.html sections="About the Collection;About this Project and Materials Utilized;Acknowledgments;Citations" %}
 
 ## About the Collection
 
@@ -18,17 +18,15 @@ Later, she wrote stories for the children of her former governess, Annie Moore, 
 
 {% include feature/image.html objectid="Object_038" %}
 
-## About this Project and Materials Used 
-This digital library is a result of the Final Project assignment in ILS-Z 652 Digital Libraries at Indiana University. The purpose of this project is strictly educational. I utilized GitHub and Collection Builder to craft the site. 
+## About this Project and Materials Utilized  
+This digital library is a result of the Final Project assignment in ILS-Z 652 Digital Libraries at Indiana University. The purpose of this project is strictly educational. I used the CollectionBuilder-GH repository template and information to build the site from https://collectionbuilder.github.io/. My metadata standards followed the CollectionBuilder standards including; objectid, filename, title, format, timeline (date), and subject. I additionally added my own metadata fields for rights, rights statement, characters referenced, dedication inscription, and dedication indiviudal for further searching. 
 
-The Materials that were used in this collection are from the miniature collection of Beatrix Potter Books under Frederick Warne & Co. 
-
-The Copyright Statement is as follows: Copyright in all countries signatory to the Berne Convention. This edition is copyright Frederick Warne & Co.  
+The Materials that were used in this collection are from the miniature collection of Beatrix Potter Books under Frederick Warne & Co. The Copyright Statement is as follows: Copyright in all countries signatory to the Berne Convention. This edition is copyright Frederick Warne & Co.  
 
 {% include feature/image.html objectid="Object_002" %}
 
 ## Acknowledgments
-This website was created by Laura Brumleve used the CollectionBuilder-GH repository template and information to build the site from https://collectionbuilder.github.io/. I would additionally like to thank Professor John Walsh and Associate Instructor Alex Wingate. 
+This website was created by Laura Brumleve. I would additionally like to thank Professor John Walsh and Associate Instructor Alex Wingate. 
 
 ## Citations 
 McGreevy, N. (2022, March 28). Leap into the surprising, art-filled life of Beatrix Potter in a new exhibition. Smithsonian Magazine. https://www.smithsonianmag.com/smart-news/beatrix-potter-peter-rabbit-illustrator-biography-180979756/ 
