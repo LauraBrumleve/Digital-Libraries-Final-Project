@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About this Project and Materials Used;Acknowledgments;Citations" %}
 
 ## About the Collection
 
@@ -18,10 +18,9 @@ Later, she wrote stories for the children of her former governess, Annie Moore, 
 
 {% include feature/image.html objectid="Object_038" %}
 
-## About this Project 
+## About this Project and Materials Used 
 This digital library is a result of the Final Project assignment in ILS-Z 652 Digital Libraries at Indiana University. The purpose of this project is strictly educational. I utilized GitHub and Collection Builder to craft the site. 
 
-## Materials Used 
 The Materials that were used in this collection are from the miniature collection of Beatrix Potter Books under Frederick Warne & Co. 
 
 The Copyright Statement is as follows: Copyright in all countries signatory to the Berne Convention. This edition is copyright Frederick Warne & Co.  
