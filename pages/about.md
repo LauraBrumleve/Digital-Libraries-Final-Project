@@ -14,7 +14,7 @@ credits: true
 
 Beatrix Potter is well-known to many for her sweet stories and mischievous characters. Born in Victorian England in 1866, her early years consisted of an isolated childhood, with her father fearing she and her brother would catch germs if they interacted with other children (McGreevy, 2022). However, they did have many pets, including snakes, rabbits, and even a hedgehog, and their interest in the natural world led to excursions to museums and gardens (Russell, 2022). This led to her interest in mycology, resulting in the submission of a paper to the Linnean Society (McGreevy, 2022). 
 
-Later, she wrote stories for the children of her former governess, Annie Moore, who later encouraged Potter to publish her stories (Morgan Library & Museum, 2018). It seems fitting that the stories that originated as stories sent to friends for enjoyment would continue with the personal and specific dedications in her subsequent published children’s books. This specific collection was crafted with the purpose of highlighting the unique and interesting way Beatrix Potter dedicated her stories to those close to her and for all children to enjoy. 
+Later, she wrote stories for the children of her former governess, Annie Moore, who later encouraged Potter to publish her stories (Morgan Library & Museum, 2018). It seems fitting that the stories that originated as stories sent to friends for enjoyment would continue with the personal and specific dedications in her subsequent published children’s books. This specific collection was crafted with the purpose of highlighting the unique and interesting way Beatrix Potter dedicated her stories to those close to her and for all children to enjoy. For those who are interested in Beatrix Potter's life and the relationships, this collection, speciffically the inscriptions provides a brief glimpse into her world. 
 
 {% include feature/image.html objectid="Object_038" %}
 
@@ -27,6 +27,9 @@ The Materials that were used in this collection are from the miniature collectio
 The Copyright Statement is as follows: Copyright in all countries signatory to the Berne Convention. This edition is copyright Frederick Warne & Co.  
 
 {% include feature/image.html objectid="Object_002" %}
+
+## Acknowledgments
+This website was created by Laura Brumleve used the CollectionBuilder-GH repository template and information to build the site from https://collectionbuilder.github.io/. I would additionally like to thank Professor John Walsh and Associate Instructor Alex Wingate. 
 
 ## Citations 
 McGreevy, N. (2022, March 28). Leap into the surprising, art-filled life of Beatrix Potter in a new exhibition. Smithsonian Magazine. https://www.smithsonianmag.com/smart-news/beatrix-potter-peter-rabbit-illustrator-biography-180979756/ 
