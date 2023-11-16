@@ -2,4 +2,8 @@ title: Additional Resources
 layout: about
 permalink: /additional_resources.html
 
+{% include feature/image.html objectid="Object_011" %}
+
+## Additional Beatrix Potter Resources for Readers to Enjoy 
+
 
