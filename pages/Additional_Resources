@@ -1,9 +1,10 @@
+---
 title: Additional Resources
 layout: about
 permalink: /additional_resources.html
+credits: true
+---
 
-{% include feature/image.html objectid="Object_011" %}
+{% include feature/nav-menu.html sections="Additional Beatrix Potter Resources for Readers to Enjoy;Citations" %}
 
 ## Additional Beatrix Potter Resources for Readers to Enjoy 
-
-
