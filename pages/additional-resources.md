@@ -8,6 +8,7 @@ credits: true
 {% include feature/nav-menu.html sections="Additional Beatrix Potter Resources for Readers to Enjoy;Citations" %}
 
 ## Additional Beatrix Potter Resources for Readers to Enjoy 
+
 The materials listed are other sources to discover the world of Beatrix Potter and provide further reading about her life and acomplishments. 
 
 ## Citations 
