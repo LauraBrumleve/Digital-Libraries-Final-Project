@@ -8,4 +8,4 @@ permalink: /metadata_outline.html
 
 This was the metadata object fields that I created during the inital stages of this project. 
 
-{% include feature/Digital-Libraries-Final-Project/objects/Metadata .pdf objectid="Metadata .pdf"%}
+{% include feature/image.html objectid="Metadata_Page 1" %}
