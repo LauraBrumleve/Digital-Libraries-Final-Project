@@ -13,13 +13,13 @@ The materials listed are other sources to discover the world of Beatrix Potter a
 
 List of Resources: 
 * Beatrix Potter Society: The Beatrix Potter Society was formed to promote the work, both in publishing and conservation efforts in the lake dsitrict of Beatrix Potter.
-  * https://beatrixpottersociety.org.uk/ 
+  * [This is an external link to https://beatrixpottersociety.org.uk/ ](https://beatrixpottersociety.org.uk/ ) 
 * Victoria and Albert Museum: The museum has a large collection of Beatrix Potter's work, including photographs of her time family, watercolors, and mushroom prints. The article linked provides wonderful images of her life as well as a brief description.
-  * https://www.vam.ac.uk/articles/introducing-beatrix-potter
+  * [This is an external link to https://www.vam.ac.uk/articles/introducing-beatrix-potter ](https://www.vam.ac.uk/articles/introducing-beatrix-potter) 
 * The World of Petter Rabbit: If you are interested in reaching not just about Beatrix Potter but all of her characters, this website has wonderful descriptions on all critters present in her books.
-  * https://peterrabbit.com/about/
+  * [This is an external link to https://peterrabbit.com/ ](https://peterrabbit.com/ ) 
 * The Linnean Society: With such a large focus on flora and fauna in England, this is an aspect about Beatrix Potter's life that has gained attention in recent years, her studies of mushrooms and the subsequent submission to the Linnean Society.
-  * https://www.linnean.org/the-society/history-of-science/beatrix-potter-the-tale-of-the-linnean-society 
+  * [This is an external link to https://www.linnean.org/the-society/history-of-science/beatrix-potter-the-tale-of-the-linnean-society](https://www.linnean.org/the-society/history-of-science/beatrix-potter-the-tale-of-the-linnean-society) 
 
 {% include feature/image.html objectid="Object_012" %}
 
