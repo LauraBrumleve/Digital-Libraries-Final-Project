@@ -21,7 +21,7 @@ List of Resources:
 * The Linnean Society: With such a large focus on flora and fauna in England, this is an aspect about Beatrix Potter's life that has gained attention in recent years, her studies of mushrooms and the subsequent submission to the Linnean Society.
   * https://www.linnean.org/the-society/history-of-science/beatrix-potter-the-tale-of-the-linnean-society 
 
-{% include feature/image.html objectid="Object_012" width=50% height=50%}
+{% include feature/image.html objectid="Object_012" %}
 
 ## Citations 
 The Beatrix Potter Society. (2023, September 29). Celebrating Beatrix Potter’s life &amp; work. The Beatrix Potter Society. https://beatrixpottersociety.org.uk/ 
